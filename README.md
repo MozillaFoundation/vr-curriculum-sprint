@@ -140,7 +140,7 @@ This year’s Global Sprint runs for 48 hours from June 1st, 2017, to June 2nd, 
 
 # How To Follow the Sprint Online
 
-We will be curating and sharing your work throughout the sprint, so keep in touch and let us know how things are going at []@MozLearn](https://twitter.com/mozlearn) on Twitter using the hashtag #mozsprint.
+We will be curating and sharing your work throughout the sprint, so keep in touch and let us know how things are going at [@MozLearn](https://twitter.com/mozlearn) on Twitter using the hashtag #mozsprint.
 
 You can also see "Featured Projects" on [Mozilla's Network Pulse](https://www.mozillapulse.org/featured), our resource for sharing exciting events and resources with our community.
 
