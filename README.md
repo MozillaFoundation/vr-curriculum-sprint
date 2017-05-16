@@ -111,7 +111,7 @@ Before you submit your issue, label it. You can choose one from the "Labels" dro
 
 Here are some of our labels:
 
-- vr-curriculum is gold.
+- vr-curriculum-sprint is gold.
 - site-related is light purple.
 - help-wanted is red.
 - questions are blue.
