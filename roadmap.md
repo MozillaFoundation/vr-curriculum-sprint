@@ -1,0 +1,6 @@
+- **May, 2017:** Gather resources, assemble teams, schedule meet-ups and sprint sites.
+- **June 1-2, 2017:** During the sprint, brainstorm, research, draft, and test lesson plans that introduce Web VR ideas, vocabulary, and technical skills to beginner web and Web VR users .
+- **June, 2017:** Project leads curate and share exemplar projects online as an Intro to Web VR curriculum module.
+- **Summer, 2017:** Continue to build out lessons plans. Submit session proposals for MozFest about connections between web literacy and open innovation and Web VR.
+- **Fall, 2017:** Community members test lesson plans and curriculum module in classrooms, clubs, and other afterschool and informal learning programs.
+- **October 27-29, 2017:** MozFest and potential Web VR sessions. 
