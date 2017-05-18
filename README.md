@@ -53,9 +53,11 @@ Resources like these might help you get started.
 - [A-Frame School](https://aframe.io/aframe-school/#/) (great resource if you’re a coder new to webVR) 
 - [A-Frame in Code Pen](https://codepen.io/mozvr/pen/BjygdO)
 - [Minecraft in WebVR](https://css-tricks.com/minecraft-webvr-html-using-frame/) with HTML Using A-Frame
+- [A-Frame Registry of curated components] (https://aframe.io/aframe-registry/)
 - [NPR: How we built a VR project using web technologies](http://blog.apps.npr.org/2016/07/22/how-we-built-our-first-vr-story.html)
 - [VRDoodler](http://vrdoodler.com/)
 - [CoSpaces](https://cospaces.io/)
+
 
 # Can I Get To Work Before the Sprint?
 
