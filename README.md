@@ -52,9 +52,9 @@ Resources like these might help you get started.
 - [AFrame](https://aframe.io/) & this [Thimble tutorial](https://thimbleprojects.org/chadsansing/21168/)
 - [A-Frame School](https://aframe.io/aframe-school/#/) (great resource if you’re a coder new to webVR) 
 - [A-Frame in Code Pen](https://codepen.io/mozvr/pen/BjygdO)
-- Getting Started With A-Frame - [Building the Olympic rings] (http://www.tomango.co.uk/thinks/getting-started-aframe/) 
+- Getting Started With A-Frame - [Building the Olympic rings](http://www.tomango.co.uk/thinks/getting-started-aframe/) 
 - [Minecraft in WebVR](https://css-tricks.com/minecraft-webvr-html-using-frame/) with HTML Using A-Frame
-- [A-Frame Registry of curated components] (https://aframe.io/aframe-registry/)
+- [A-Frame Registry of curated components](https://aframe.io/aframe-registry/)
 - [NPR: How we built a VR project using web technologies](http://blog.apps.npr.org/2016/07/22/how-we-built-our-first-vr-story.html)
 - [VRDoodler](http://vrdoodler.com/)
 - [CoSpaces](https://cospaces.io/)
