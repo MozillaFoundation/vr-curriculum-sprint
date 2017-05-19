@@ -68,11 +68,11 @@ Of course. It's fine to begin the sprint with work already in-hand. You should f
 - Put together a team to begin work now and continue it after the sprint. You can do this online through your network or in our project's issue tracker. You can also recruit a team to work face-to-face in your community.
 - Reserve space now to host a "site" or meet-up during the sprint (see more details about hosting a site below).
 
-Just keep in mind that we're asking you to license the work openly so our everyone can use, adapt, and build upon your contributions (see more about licensing below).
+Just keep in mind that we're asking you to license the work openly so our everyone can use, adapt, and build upon your contributions (see more about licensing below). Learn more about [how to contribute](https://mozilla.github.io/global-sprint/participants/). 
 
 # How To Share Your Work
 
-We’ve set up a repo for the projects you make in response to these challenges. You can check out what the greater Global Sprint community is up to on the 2017 Global Sprint landing page.
+We’ve set up a repo for the projects you make in response to these challenges. You can check out what the greater Global Sprint community is up to on the 2017 Global Sprint [landing page](https://mozilla.github.io/global-sprint/).
 
 ***A repo is a repository - or collection of files - that belong together on GitHub.*** All the files contributed by everyone working on your project will eventually wind up in 1 repo so you can see each other's work, give feedback, and adapt it for yourself or your own communities.
 
