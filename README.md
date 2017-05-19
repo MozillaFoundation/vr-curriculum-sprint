@@ -125,7 +125,7 @@ If you'd like to learn even more about GitHub, check out the GitHub for Collabor
 
 # How To Host a Site
 
-If you organize a team for the Global Sprint or would like to run a "site" - like a meet-up at a community center or in a learning space or makerspace - visit this page to learn how to register your event.
+If you organize a team for the [Global Sprint](https://mozilla.github.io/global-sprint/) or would like to run a "site" - like a meet-up at a community center or in a learning space or makerspace - visit [this page](https://mozilla.github.io/global-sprint/site-hosts/) to learn how to register your event.
 
 Site leaders receive support from project and challenge leads to help people learn and work together face-to-face. They commit to being on-site from 9AM to 5 PM local time each day so they can:
 
